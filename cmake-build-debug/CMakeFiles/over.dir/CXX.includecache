@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Adam/Desktop/over/fraction.cpp
+iostream
+-
+fraction.h
+C:/Users/Adam/Desktop/over/fraction.h
+
+C:/Users/Adam/Desktop/over/fraction.h
+
+C:/Users/Adam/Desktop/over/main.cpp
+iostream
+-
+fraction.h
+C:/Users/Adam/Desktop/over/fraction.h
+
